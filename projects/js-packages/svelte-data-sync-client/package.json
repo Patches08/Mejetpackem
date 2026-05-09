@@ -25,7 +25,7 @@
 	"devDependencies": {
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"jest": "29.7.0",
-		"svelte": "4.2.19",
+		"svelte": "5.53.5",
 		"tslib": "2.5.0",
 		"typescript": "5.8.2",
 		"webpack": "5.94.0",
